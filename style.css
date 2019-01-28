@@ -1,9 +1,28 @@
 
-hr{
+h1{
   margin-top: 35px;
   margin-bottom: 25px;
 }
- li{
+h2{
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+h3{
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+h4{
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+h5{
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+ ul{
+font-color: blue; 
+}
+ ol{
 font-color: blue; 
 }
 code {
