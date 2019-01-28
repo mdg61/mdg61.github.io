@@ -20,8 +20,8 @@ h5{
   margin-bottom: 25px;
 }
 
-li {color: red;}
-li > span {color: black;}
+li {color: blue;}
+
 
 code {
   font-family: "Helvetica", Times, serif;
