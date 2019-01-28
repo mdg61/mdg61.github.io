@@ -19,13 +19,11 @@ h5{
   margin-top: 35px;
   margin-bottom: 25px;
 }
-ul {
-  list-style: none; /* Remove default bullets */
-}
 
-ul li::before {
 
-  color: red; /* Change the color */
+ul li {
+
+  color: red;
 
 }
 code {
