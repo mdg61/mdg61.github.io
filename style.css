@@ -6,4 +6,8 @@ hr{
 li{
   color="blue";
 }
+code {
+  font-family: "Helvetica", Times, serif;
+  font-style: italic;
+}
 
