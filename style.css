@@ -20,12 +20,9 @@ h5{
   margin-bottom: 25px;
 }
 
+li {color: red;}
+li > span {color: black;}
 
-ul li {
-
-  color: red;
-
-}
 code {
   font-family: "Helvetica", Times, serif;
   text-decoration: underline; 
