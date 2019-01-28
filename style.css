@@ -19,11 +19,14 @@ h5{
   margin-top: 35px;
   margin-bottom: 25px;
 }
- ul{
-font-color: blue; 
+ul {
+  list-style: none; /* Remove default bullets */
 }
- ol{
-font-color: blue; 
+
+ul li::before {
+
+  color: red; /* Change the color */
+
 }
 code {
   font-family: "Helvetica", Times, serif;
