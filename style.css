@@ -1,12 +1,12 @@
 
-hr{
+<hr>{
   margin-top: 35px;
   margin-bottom: 25px;
 }
-li{
+<li>{
   color:blue;
 }
-code {
+<code> {
   font-family: "Helvetica", Times, serif;
   text-decoration: underline; 
 }
