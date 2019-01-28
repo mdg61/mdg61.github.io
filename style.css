@@ -4,7 +4,7 @@ hr{
   margin-bottom: 25px;
 }
 li:before{
-  text-color:blue;
+  font-color:blue;
 }
 code {
   font-family: "Helvetica", Times, serif;
