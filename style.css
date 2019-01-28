@@ -8,7 +8,7 @@ li{
 }
 code {
   font-family: "Helvetica", Times, serif;
-  font-style: underline;
+  text-decoration: underline; 
 }
 div.caption{
   width: 50%;
