@@ -3,7 +3,7 @@ hr{
   margin-top: 35px;
   margin-bottom: 25px;
 }
-ul{
+li:before{
   text-color:blue;
 }
 code {
