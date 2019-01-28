@@ -3,8 +3,8 @@ hr{
   margin-top: 35px;
   margin-bottom: 25px;
 }
-li:before{
-  font-color:blue;
+ li{
+color: blue; 
 }
 code {
   font-family: "Helvetica", Times, serif;
