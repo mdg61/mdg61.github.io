@@ -1,1 +1,37 @@
 
+
+
+<html>
+  <head>
+     <title>Marlie Gallagher </title>
+      
+    <link rel="stylesheet" href="mdg61.github.io/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="mdg61.github.io/style.css">
+   </head>
+  
+  <p>For our first project for PDC we were asked to use data about the city of Pittsburgh to aid text in telling a story. </p>
+    
+    <p>With that being said, there are two things that need to work together to successfully do this- the data and the story. The first step in this project was finding inspiration in a series of over 300 local data sets. </p>
+      
+      <p>Looking through the datasets I had the question in the back of my mind…what are the things that are important to the culture of Pittsburgh and the people that live here. A few things come to mind, sports, bridges, and fried food; I-feeling hungry and inspired by the upcoming Lenton season- chose the food route.</p>
+        
+        <p>The target audience for the people viewing the page (besides the prof or TA grading) are Pittsburgh locals or people visiting looking for information on Fish Fry’s in the area.</p>
+          
+          <p>I utilized plot.ly to organize the Excel spreadsheet containing thousands of entries into visually pleasing representations of portions of the data that would be beneficial to people looking for specific information regarding local fish fry’s. Using plots or graphs organizes data in a way that is easy to read and represents a large pool of data in a smaller scale format. In terms of efficiency, the visual images allow prospective viewers to answer basic questions they have without searching through rows upon rows of data.</p>
+           
+           <p>The first visual I used was a table containing all the names and addresses of Fish fry’s in Pittsburgh. This simple chart organizes two categories of data and answers the most basic question someone could have-Where are the Fish Fry’s.</p>
+             
+             <p>The second visual I used was a pie chart that shows the categories of places that are participating in Fish fry’s. Not everyone in Pittsburgh is religious but I haven’t yet met someone that didn’t enjoy fried food! This chart would be benefital for someone searching for alternative locations for Fish fry’s.</p>
+                
+                <p>To further illustrate my underling message: representing Pittsburgh with data I chose to focus on a specific category: whether or whether not the fish fry serves pierogis-something people from Pittsburgh are very familiar with. I used a plot graph using the names of the participating fish fry and whether or not they have pierogis as the axis.</p>
+                  
+                  <p>I used basic html to layer the graphics and the texts- almost mimicking a picture book from childhood. This strategy visually separates ideas presented in text allowing readers to have a clearing understanding of the ideas being presented. I used styling to enlarge important headings with <h> tags and the <p> tag to separate chunks of information into smaller  more easily readable blocks of text.</p>
+                   
+                   <p>The dataset project was trial and error for me. I played around a lot with the ordering and formatting of the elements in html to best present the story I wanted to tell in the most optimal way.</p>
+                    
+
+
+
+
+</html>
